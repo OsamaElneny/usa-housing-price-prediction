@@ -24,5 +24,5 @@ jupyter notebook notebooks/usa_housing_prices.ipynb
 ```
 
 ## 📊 Models Used
-Linear Regression (from sklearn.linear_model)
-Decision Tree Regressor (from sklearn.tree)
+- Linear Regression (from sklearn.linear_model)
+- Decision Tree Regressor (from sklearn.tree)
