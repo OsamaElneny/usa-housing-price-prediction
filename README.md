@@ -12,4 +12,17 @@ This repository contains a dataset and Jupyter notebook for predicting USA housi
    ```bash
    git clone https://github.com/OsamaElneny/usa-housing-price-prediction.git
    cd usa-housing-price-prediction
+   ```
+2. Install dependencies:
+```bash
+    pip install -r requirements.txt
+```
 
+3. Run the notebook:
+ ```bash
+jupyter notebook notebooks/usa_housing_prices.ipynb
+```
+
+## 📊 Models Used
+Linear Regression (from sklearn.linear_model)
+Decision Tree Regressor (from sklearn.tree)
